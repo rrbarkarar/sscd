@@ -1,0 +1,10 @@
+int a1[10];
+float b = 5.5;
+char c;
+double arr2[20];
+int add(int x, int y);
+int result = x + y;
+arr2[0] = 10.0;
+b = a1[2] + result;
+float pi = 3.1415;
+int add();
